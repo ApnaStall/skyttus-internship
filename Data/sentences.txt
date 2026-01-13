@@ -1,0 +1,8 @@
+I am learning Python.
+Python file handling is useful.
+This is my internship task.
+Files store data permanently.
+Python is beginner friendly.
+Python
+AI
+ML

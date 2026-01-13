@@ -1,0 +1,7 @@
+This is file one.
+It contains some sample text.
+File handling is important.
+
+This is file two.
+We will merge file one and file two.
+Python makes this easy.

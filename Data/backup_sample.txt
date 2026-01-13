@@ -1,0 +1,4 @@
+Python is easy to learn.
+Python is powerful.
+Python is used in AI and Machine Learning.
+Learning Python is fun.
