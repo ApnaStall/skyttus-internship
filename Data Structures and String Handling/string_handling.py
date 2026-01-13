@@ -1,6 +1,6 @@
-# -------------------------
-# Python String Handling
-# -------------------------
+# ----------------
+# String Handling
+# ----------------
 
 # Take a string input and print its length
 text = input("Enter a string: ")
@@ -47,9 +47,9 @@ words = ["Python", "AI", "ML", "Internship"]
 print("Joined string:", "-".join(words))
 
 
-# -------------------------
-# Python List Operations
-# -------------------------
+# ----------------
+# List Operations
+# ----------------
 
 # Create a list of 5 favorite movies
 movies = ["Inception", "Interstellar", "Matrix", "Avatar", "Titanic"]

@@ -1,6 +1,6 @@
-# -------------------------
+# -----------------
 # Tuple Operations
-# -------------------------
+# -----------------
 
 # Create a tuple with 5 numbers
 numbers_tuple = (10, 20, 30, 40, 50)
@@ -14,9 +14,9 @@ a, b, c, d, e = numbers_tuple
 print("Unpacked values:", a, b, c, d, e)
 
 
-# -------------------------
+# ---------------
 # Set Operations
-# -------------------------
+# ---------------
 
 # Create a set of 5 fruits
 fruits = {"apple", "banana", "mango", "orange", "grape"}
@@ -47,9 +47,9 @@ unique_values = set(duplicate_list)
 print("Unique values:", unique_values)
 
 
-# -------------------------
+# ----------------------
 # Dictionary Operations
-# -------------------------
+# ----------------------
 
 # Create a dictionary of student names and marks
 students = {"Alice": 85, "Bob": 90, "Charlie": 78}
