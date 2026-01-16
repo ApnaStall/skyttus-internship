@@ -1,2 +1,2 @@
-name = "Apna Stall"
+name = "Skyttus"
 print(name.upper())
