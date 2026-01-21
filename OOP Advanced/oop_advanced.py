@@ -24,7 +24,7 @@ class ElectricCar(Car):
     def fuel(self):
         print("Electric car uses electricity")
 
-# Method Overriding (base & derived)
+# Method Overriding
 class Shape:
     def area(self):
         print("Area not defined")
