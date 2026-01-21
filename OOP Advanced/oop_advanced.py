@@ -142,7 +142,7 @@ if __name__ == "__main__":
 
     # Multiple Inheritance
     phone = Smartphone()
-    phone.feature()   # follows MRO
+    phone.feature()
 
     # Polymorphism
     draw_shape(Circle())
