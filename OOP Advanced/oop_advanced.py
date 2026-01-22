@@ -57,7 +57,7 @@ class Rectangle:
 def draw_shape(shape):
     shape.draw()
 
-# Bank System (Savings & Current Account)
+# Bank System
 class BankAccount:
     def __init__(self, balance):
         self.balance = balance
