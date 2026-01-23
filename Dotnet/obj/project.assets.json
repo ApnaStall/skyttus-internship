@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\skyttus-internship\\SkyttusInternship\\SkyttusInternship.csproj",
+      "projectUniqueName": "E:\\skyttus-internship\\Dotnet\\SkyttusInternship.csproj",
       "projectName": "SkyttusInternship",
-      "projectPath": "E:\\skyttus-internship\\SkyttusInternship\\SkyttusInternship.csproj",
+      "projectPath": "E:\\skyttus-internship\\Dotnet\\SkyttusInternship.csproj",
       "packagesPath": "C:\\Users\\daxpa\\.nuget\\packages\\",
-      "outputPath": "E:\\skyttus-internship\\SkyttusInternship\\obj\\",
+      "outputPath": "E:\\skyttus-internship\\Dotnet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\daxpa\\AppData\\Roaming\\NuGet\\NuGet.Config"

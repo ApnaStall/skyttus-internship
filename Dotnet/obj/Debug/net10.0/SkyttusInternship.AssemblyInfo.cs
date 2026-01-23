@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SkyttusInternship")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d89fa41fc65270c77686d72d9c6739b3da7118d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8cf2aeaf4949eb06eaf4699092c3d61062f6359")]
 [assembly: System.Reflection.AssemblyProductAttribute("SkyttusInternship")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SkyttusInternship")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
