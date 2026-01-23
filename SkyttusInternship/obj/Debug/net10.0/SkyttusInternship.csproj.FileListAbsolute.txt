@@ -1,0 +1,15 @@
+E:\skyttus-internship\SkyttusInternship\bin\Debug\net10.0\SkyttusInternship.exe
+E:\skyttus-internship\SkyttusInternship\bin\Debug\net10.0\SkyttusInternship.deps.json
+E:\skyttus-internship\SkyttusInternship\bin\Debug\net10.0\SkyttusInternship.runtimeconfig.json
+E:\skyttus-internship\SkyttusInternship\bin\Debug\net10.0\SkyttusInternship.dll
+E:\skyttus-internship\SkyttusInternship\bin\Debug\net10.0\SkyttusInternship.pdb
+E:\skyttus-internship\SkyttusInternship\obj\Debug\net10.0\SkyttusInternship.GeneratedMSBuildEditorConfig.editorconfig
+E:\skyttus-internship\SkyttusInternship\obj\Debug\net10.0\SkyttusInternship.AssemblyInfoInputs.cache
+E:\skyttus-internship\SkyttusInternship\obj\Debug\net10.0\SkyttusInternship.AssemblyInfo.cs
+E:\skyttus-internship\SkyttusInternship\obj\Debug\net10.0\SkyttusInternship.csproj.CoreCompileInputs.cache
+E:\skyttus-internship\SkyttusInternship\obj\Debug\net10.0\SkyttusInternship.sourcelink.json
+E:\skyttus-internship\SkyttusInternship\obj\Debug\net10.0\SkyttusInternship.dll
+E:\skyttus-internship\SkyttusInternship\obj\Debug\net10.0\refint\SkyttusInternship.dll
+E:\skyttus-internship\SkyttusInternship\obj\Debug\net10.0\SkyttusInternship.pdb
+E:\skyttus-internship\SkyttusInternship\obj\Debug\net10.0\SkyttusInternship.genruntimeconfig.cache
+E:\skyttus-internship\SkyttusInternship\obj\Debug\net10.0\ref\SkyttusInternship.dll
