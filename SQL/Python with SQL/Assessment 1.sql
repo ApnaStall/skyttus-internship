@@ -1,5 +1,5 @@
 -- DATABASE CREATION
-CREATE DATABASE SkyttusDB;
+CREATE DATABASE skyttus_internship;
 GO
 
 USE skyttus_internship;
