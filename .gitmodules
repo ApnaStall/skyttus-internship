@@ -1,0 +1,3 @@
+[submodule "contract_management_system"]
+	path = contract_management_system
+	url = https://github.com/Skyttus-Private-Limited/contract_management_system.git
